@@ -1,11 +1,11 @@
 # Exam and Quiz Management System
 
 
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-
 
 ## Introduction
 The **Exam and Quiz Management System** is a comprehensive application designed to facilitate the creation, management, and participation in exams and quizzes. The application features an admin panel for managing exams, quizzes, questions, answers, categories, and blogs, as well as a user interface for taking quizzes and reading blogs.
@@ -21,9 +21,9 @@ The **Exam and Quiz Management System** is a comprehensive application designed 
 ## Technologies Used
 - **Backend**: ASP.NET Core API
 - **Frontend**: JavaScript (Native)
-- **Database**: MySQL
+- **Database**: MariaDB
 - **Authentication**: JWT (JSON Web Tokens)
-
-
+- **ORM**: EF Core (Entity Framework Core)
+- **Architecture**: Onion Architecture
 
 Project Link: [iqmedjo](https://www.iqmedjo.com/)
