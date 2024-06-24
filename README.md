@@ -1,6 +1,5 @@
 # Exam and Quiz Management System
 
-![Exam and Quiz Management System](https://via.placeholder.com/800x400.png?text=Exam+and+Quiz+Management+System+Banner)
 
 ## Table of Contents
 - [Introduction](#introduction)
